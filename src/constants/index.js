@@ -32,7 +32,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Built a system that suggests recipes based on available ingredients to reduce food waste and simplify meal planning. Contributed to the User Management Microservice, enabling admin control and ensuring data consistency across user and recipe modules.",
-    technologies: ["Vue.js", "Node.js", "Figma", "Firebase"],
+    technologies: ["Vue.js", "Node.js", "Figma"],
   },
   {
     title: "Portfolio Website",
