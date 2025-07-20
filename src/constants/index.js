@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `Hi, I’m Arvind Nataraj builder of smart apps, lover of clean code, and a Master’s student shaping the future of tech from Germany. I turn everyday problems into elegant web solutions that don’t just work - they resonate.`;
 
@@ -18,6 +19,16 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+
+  {
+    title: "WanderWise - AI Travel Companion  (On Going)",
+    
+
+    image: project4,
+    description:
+      "An intelligent travel planning app that generates city insights, personalized itineraries, and interactive chat-based recommendations using real-time APIs and AI models.",
+    technologies: ["React", "Vite", "Flask", "Python"],
+  },
   {
     title: "Personal Event Schedule Application",
     
